@@ -1,0 +1,31 @@
+{
+  "name": "code-n-magic",
+  "version": "1.0.0",
+  "description": "tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Real-Ivan-Nosov/code-and-magic.git"
+  },
+  "keywords": [
+    "code",
+    "n",
+    "magic"
+  ],
+  "author": "Melon Bun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Real-Ivan-Nosov/code-and-magic/issues"
+  },
+  "homepage": "https://github.com/Real-Ivan-Nosov/code-and-magic#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0"
+  }
+}
